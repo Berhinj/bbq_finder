@@ -1,0 +1,5 @@
+OSMPythonTools==0.3.0
+folium==0.12.1
+numpy==1.15.4
+streamlit==0.62.1
+streamlit_folium==0.3.0
